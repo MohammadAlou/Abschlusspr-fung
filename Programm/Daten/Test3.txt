@@ -1,0 +1,12 @@
+Locations:
+#id;		kind of location;		latitzde;		longitude;		continent;	name;
+csu_zen;	Location;			48.176971;		11.5895754;		1;		CSU-Zentrale, Muenchen
+reichstag;	Location;			52.518191;		13.3751725;		1;		Reichstagsgebaeude, Berlin
+
+
+
+
+
+
+FindBestConnections:
+csu_zen;		 reichstag

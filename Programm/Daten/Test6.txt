@@ -1,0 +1,12 @@
+Locations:
+#id;		kind of location;		latitzde;		longitude;		continent;	name;
+bun_tag;	PublicTransportStop;		52.176971;	13.5891154;		1;		Bundestag, Berlin
+br-mus;		PublicTransportStop;		53.518191;	12.3751725;		2;		British Museum, London
+
+
+
+
+
+
+FindBestConnections:
+bun_tag;		 br-mus

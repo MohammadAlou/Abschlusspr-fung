@@ -1,0 +1,21 @@
+Locations:
+#id;		kind of location;		latitzde;		longitude;		continent;	name;
+ka_kit;		Location;			49.0116423;		8.4078883;		1;		KIT Karlsruhe
+ka_hbf;		PublicTransportStop;		48.9939436;		8.3987803;		1;		Karlsruhe Hbf
+fra_flug;	Airport;			50.0529421;		8.5688149;		1;		Frankfurt Flughafen
+s_flug;		Airport;			48.6910584;		9.1903943;		1;		Stuttgart Flughafen
+sanfra_airpot;	Airport;			37.616435;		-122.388382;		2;		San Francisco Airpot
+google_hp;	PublicTransportStop;		37.4219999;		-122.0856089;		2;		Google Headquarter
+
+
+
+
+
+FlightSchedule:
+#id1;		id2;			(stops;		domestic Flifht)
+fra_flug;	sanfra_airpot		
+s_flug;		sanfra_airpot;		1
+
+
+FindBestConnections:
+ka_kit;		google_hp

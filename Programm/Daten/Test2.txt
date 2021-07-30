@@ -1,0 +1,12 @@
+Locations:
+#id;		kind of location;		latitzde;		longitude;		continent;	name;
+ka_kit;		Location;			49.0116423;		8.4078883;		1;		KIT Karlsruhe
+google_hp;	Location;			37.4219999;		-122.0856089;		1;		Google Headquarter
+
+
+
+
+
+
+FindBestConnections:
+ka_kit;		google_hp

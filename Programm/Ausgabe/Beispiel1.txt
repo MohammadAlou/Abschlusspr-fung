@@ -1,0 +1,18 @@
+CSU-Zentrale, Muenchen-->Reichstagsgebaeude, Berlin
+------------
+Strecke Luftline: 499,608820675903
+
+
+Schnellsete Verbindungen
+CSU-Zentrale, Muenchen-- IndividualVerbindung-- > Muenchen Flughafen
+Muenchen Flughafen-- FlugVerbindung-- > Berlin Flughafen Tegel
+Berlin Flughafen Tegel-- OeffentlichenVerbindung-- > Berlin Hbf
+Berlin Hbf-- IndividualVerbindung-- > Reichstagsgebaeude, Berlin
+Dauer: 03:45:58.1520000, CO2-Emission: 108,995786561707
+
+
+Verbindungen mit der gringsten CO2-Emission:
+CSU-Zentrale, Muenchen-- IndividualVerbindung-- > Muenchen Hbf
+Muenchen Hbf-- OeffentlichenVerbindung-- > Berlin Hbf
+Berlin Hbf-- IndividualVerbindung-- > Reichstagsgebaeude, Berlin
+Dauer: 06:46:15.8670000, CO2-Emission: 31,400314664451

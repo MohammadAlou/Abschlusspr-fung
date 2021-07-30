@@ -1,0 +1,20 @@
+Locations:
+#id;		kind of location;		latitzde;		longitude;		continent;	name;
+csu_zen;	Location;			48.176971;		11.5895754;		1;		CSU-Zentrale, Muenchen
+mum_hbf;	PublicTransportStop;		48.140235;		11.559417;		1;		Muenchen Hbf
+mum_flug;	Airport;			48.35333;		11.770723;		1;		Muenchen Flughafen
+reichstag;	Location;			52.518191;		13.3751725;		1;		Reichstagsgebaeude, Berlin
+ber_flug;	Airport;			52.553625;		13.2901544;		1;		Berlin Flughafen Tegel
+ber_hbf;	PublicTransportStop;		52.524195;		13.3693013;		1;		Berlin Hbf
+
+
+
+
+
+FlightSchedule:
+#id1;		id2;		(stops;		domestic Flifht)
+mum_flug;	ber_flug;	0;		True
+
+
+FindBestConnections:
+csu_zen;		 reichstag

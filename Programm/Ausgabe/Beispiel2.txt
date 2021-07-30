@@ -1,0 +1,18 @@
+KIT Karlsruhe-->Google Headquarter
+------------
+Strecke Luftline: 9249,02871401207
+
+
+Schnellsete Verbindungen
+KIT Karlsruhe-- IndividualVerbindung-- > Frankfurt Flughafen
+Frankfurt Flughafen-- FlugVerbindung-- > San Francisco Airpot
+San Francisco Airpot-- IndividualVerbindung-- > Google Headquarter
+Dauer: 16:08:12.8990000, CO2-Emission: 2007,70417596625
+
+
+Verbindungen mit der gringsten CO2-Emission:
+KIT Karlsruhe-- IndividualVerbindung-- > Karlsruhe Hbf
+Karlsruhe Hbf-- OeffentlichenVerbindung-- > Frankfurt Flughafen
+Frankfurt Flughafen-- FlugVerbindung-- > San Francisco Airpot
+San Francisco Airpot-- OeffentlichenVerbindung-- > Google Headquarter
+Dauer: 16:31:41.3880000, CO2-Emission: 1983,39263939682
